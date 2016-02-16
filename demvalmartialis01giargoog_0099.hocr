@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demvalmartialis01giargoog_0099.png"; bbox 0 0 3442 5392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 28 3442 5364">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 28 3442 5364">
+     <span class='ocr_line' id='line_1_1' title="bbox 2028 28 3442 377; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2028 28 3442 377; x_wconf 95' lang='lat' dir='ltr'>  </span> <span class='ocrx_word' id='word_1_2' title='bbox 3049 197 3442 377; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 377 3442 5364; baseline 0 -4584"><span class='ocrx_word' id='word_1_3' title='bbox 0 377 3442 5364; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2258 242 3049 372">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2258 242 3049 372">
+     <span class='ocr_line' id='line_1_3' title="bbox 2258 242 3049 372; baseline -0.033 -38"><span class='ocrx_word' id='word_1_4' title='bbox 2258 271 2319 332; x_wconf 87' lang='lat' dir='ltr'>U.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2338 268 2393 332; x_wconf 75' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_6' title='bbox 2413 254 2721 372; x_wconf 51' lang='lat' dir='ltr'>affixa&amp;</span> <span class='ocrx_word' id='word_1_7' title='bbox 2741 242 3049 339; x_wconf 66' lang='grc' dir='ltr'>ΗΒΗΑΗΙΕΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2389 578 2997 736">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2389 578 2997 736">
+     <span class='ocr_line' id='line_1_4' title="bbox 2389 578 2997 736; baseline -0.026 -6"><span class='ocrx_word' id='word_1_8' title='bbox 2389 578 2997 736; x_wconf 0' lang='lat' dir='ltr'>(nusq uvfinv</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
